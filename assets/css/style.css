@@ -1170,6 +1170,11 @@ section {
   height: 300px;
   width: 100%;
 }
+.team-title{
+  font-weight: bold;
+  font-size: 13px;
+  color: #4c4c4c;
+}
 
 /* .banner-content2 video {
   margin-top: -50px;
