@@ -1170,14 +1170,38 @@ section {
   height: 300px;
   width: 100%;
 }
-.team-title{
+
+.team-title {
   font-weight: bold;
   font-size: 13px;
   color: #4c4c4c;
 }
 
-/* .banner-content2 video {
-  margin-top: -50px;
-  height: 300px;
-  width: 100%;
-} */
+.client-content {
+  color: #fff;
+  font-size: 14px;
+  /* margin-bottom: 50px; */
+  text-align: center;
+}
+
+.client-content-heading {
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #EB2127;
+}
+
+.client-page-heading {
+  color: #fff;
+  font-size: 55px;
+  font-weight: 700;
+  font-family: popins;
+  /* margin-top: 50px; */
+  margin-bottom: 20px;
+  text-align: center;
+  text-decoration: underline #EB2127 8px;
+  text-underline-offset: 12px;
+
+}
