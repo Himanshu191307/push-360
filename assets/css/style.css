@@ -1181,6 +1181,7 @@ section {
   color: #fff;
   font-size: 14px;
   text-align: left;
+  line-height: 25px;
 }
 
 .client-content-heading {
@@ -1212,4 +1213,8 @@ section {
   text-decoration: underline #EB2127 8px;
   text-underline-offset: 12px;
 
+}
+
+.margin-bottom-para {
+  margin-bottom: 15px;
 }
